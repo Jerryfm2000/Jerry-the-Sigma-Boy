@@ -1,8 +1,10 @@
 img{
-    width:200px;
+    width:400px;
+	border-radius: 30px;
 }
 body{
 	text-align: center;
-	font-family: "Arial, sans-serif";
+	font-family: Georgia, 'Times New Roman', Times, serif;
 	background-color: blue;
+	color: white;
 }
